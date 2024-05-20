@@ -1,2 +1,2 @@
 # Gene_expression_of_COVIDvaccine
-Differential gene expression in human macrophages after the SARS-COV-2 vaccine
+Differential gene expression in human macrophages after the SARS-COV-2 vaccine. A powerpoint documenting the project can be found in this repository. I sequenced and aligned data, obtained FPKM values, filtered genes, and conducted pathway analysis to explore the patterns of Differential Gene Expression in Human Macrophages post-administration of the SARS-CoV-2 vaccine.
